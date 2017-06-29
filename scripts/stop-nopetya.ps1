@@ -1,4 +1,4 @@
-# This script creates file to activate Petya kill switch.
+# This script creates file to activate NoPetya/Petrwrap/ExPetr/GoldenEye kill switch.
 # More info:
 # 	https://twitter.com/PTsecurity_UK/status/879779707075665922
 # 	https://twitter.com/PTsecurity_UK/status/879779707075665922
